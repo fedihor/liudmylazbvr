@@ -41,6 +41,12 @@
     color: #f5ffed;
 }
 
+.color-3 {
+    background-color: rgba(255,255,120,0.9);
+    color: #428bca;
+}
+
+
 .color-tree {
     color: white;
 }
@@ -77,10 +83,27 @@ blockquote p {
     /*border: 1px solid red;*/
     height: 100%;
     background: url("../../Images/8.jpg") left center no-repeat;
-    background-size:100% auto;
+    background-size: 100% auto;
+    /*border: 1px solid red;*/
+    margin-top: -0px;
     
 }
 
 .navbar-margin-bottom-0 {
     margin-bottom: 0;
+}
+
+.empty-visible {
+    height: 260px;
+}
+
+.aplayer {
+    margin: 0 0px;
+}
+
+.text-box {
+    background-color: rgba(255,255,255,0.2);
+    color: #715d5d;
+    margin: 10px 0 0 0;
+    font-size: 1.4em;
 }
